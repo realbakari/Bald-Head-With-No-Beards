@@ -1,0 +1,1341 @@
+{
+    "lens_id": "",
+    "document_id": "VE0jLWf2cwUr1kn55gGW",
+    "original_document_id": "VE0jLWf2cwUr1kn55gGW",
+    "version": "28",
+    "lastChanged": "1635777540337",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "4",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "4",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "BaldStyle Resources"
+                    ],
+                    [
+                        "BaldStyle Resources",
+                        "Face Crop Texture Wide"
+                    ],
+                    [
+                        "BaldStyle Resources",
+                        "ML Bald"
+                    ],
+                    [
+                        "BaldStyle Resources",
+                        "bald_model"
+                    ],
+                    [
+                        "BaldStyle Resources",
+                        "output_0 Proxy Texture"
+                    ],
+                    [
+                        "BaldStyle__PUT_IN_ORTHO_CAM"
+                    ],
+                    [
+                        "Beard Removal Resources"
+                    ],
+                    [
+                        "Beard Removal Resources",
+                        "Materials"
+                    ],
+                    [
+                        "Beard Removal Resources",
+                        "Materials",
+                        "blend_beard"
+                    ],
+                    [
+                        "Beard Removal Resources",
+                        "Models"
+                    ],
+                    [
+                        "Beard Removal Resources",
+                        "Models",
+                        "remove_beard_model"
+                    ],
+                    [
+                        "Beard Removal Resources",
+                        "Textures"
+                    ],
+                    [
+                        "Beard Removal Resources",
+                        "Textures",
+                        "beard_face_crop_texture"
+                    ],
+                    [
+                        "Beard Removal Resources",
+                        "Textures",
+                        "camera_render_target"
+                    ],
+                    [
+                        "Beard Removal Resources",
+                        "Textures",
+                        "output_proxy_texture"
+                    ],
+                    [
+                        "Beard Removal Resources",
+                        "Textures",
+                        "screen_texture"
+                    ],
+                    [
+                        "BeardRemoval__PLACE_IN_OBJECTS_PANEL"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "aba8aec3970966553ff33e717b7856ca",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Bald",
+            "applicability": "7",
+            "lens_descriptors": [
+                "SUPPORTS_NEWPORT_DEPTH"
+            ],
+            "HermosaUseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Raise Eyebrows Person 5.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1635776355777636:8562"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1635776355105347:8421",
+                    "name": "sceneObject_0",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1635776355401310:8522",
+                    "name": "Face Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1635776355411143:8532",
+                    "name": "Proxy Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1635776355487982:8550",
+                    "name": "Files\/File9.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1635776355777636:8562",
+                    "name": "Files\/File11",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1635776896305020:70091",
+                    "name": "sceneObject_11",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1635776896464329:70187",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1635776896498573:70197",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1635776896499957:70207",
+                    "name": "Face Crop Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1635776896500784:70217",
+                    "name": "Proxy Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1635776896557708:70231",
+                    "name": "Files\/File37",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1635776896674769:70281",
+                    "name": "Files\/File39.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1635776391447549:15266",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1635776391460989:15406",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1635776384922533:12255",
+                "4": "1635776391436738:15254",
+                "5": "1635776391460651:15404",
+                "6": "1635776910578117:71734",
+                "7": "1635776913583269:71971",
+                "8": "1635776913586126:71989",
+                "9": "1635776913601401:72053",
+                "10": "1635776913619915:72191"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.oprfb"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.dnn"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.dnn"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.lsmat"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.oprfb"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.oprfb"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.lsmat"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.dnn"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.dnn"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.oprfb"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "BaldStyle Resources"
+                    },
+                    {
+                        "k": "969",
+                        "v": "BaldStyle Resources\/bald_model.dnn"
+                    },
+                    {
+                        "k": "970",
+                        "v": "BaldStyle Resources\/ML Bald.lsmat"
+                    },
+                    {
+                        "k": "971",
+                        "v": "BaldStyle__PUT_IN_ORTHO_CAM.oprfb"
+                    },
+                    {
+                        "k": "983",
+                        "v": "Beard Removal Resources"
+                    },
+                    {
+                        "k": "984",
+                        "v": "Beard Removal Resources\/Textures"
+                    },
+                    {
+                        "k": "985",
+                        "v": "Beard Removal Resources\/Materials"
+                    },
+                    {
+                        "k": "986",
+                        "v": "Beard Removal Resources\/Materials\/blend_beard.lsmat"
+                    },
+                    {
+                        "k": "987",
+                        "v": "Beard Removal Resources\/Models"
+                    },
+                    {
+                        "k": "988",
+                        "v": "Beard Removal Resources\/Models\/remove_beard_model.dnn"
+                    },
+                    {
+                        "k": "989",
+                        "v": "BeardRemoval__PLACE_IN_OBJECTS_PANEL.oprfb"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "969",
+                        "v": "e1306f0ac86c83ffd42fe2e103de1a97"
+                    },
+                    {
+                        "k": "970",
+                        "v": "7127c1a293da07a63aecd84ae09695c8"
+                    },
+                    {
+                        "k": "971",
+                        "v": "411512d6f7530270916628da058481d9"
+                    },
+                    {
+                        "k": "973",
+                        "v": "f94b1e627369dd413087377b6ef848f3"
+                    },
+                    {
+                        "k": "974",
+                        "v": "be7f6b016786ff0a11475bc6d08d50bc"
+                    },
+                    {
+                        "k": "975",
+                        "v": "a75d9dbff5baa659169eed8b3dbd13f6"
+                    },
+                    {
+                        "k": "976",
+                        "v": "e1aa305145f3638ff3925715cf3feb3a"
+                    },
+                    {
+                        "k": "979",
+                        "v": "1e22c1d7956a48606f6a0a7aca2d72f3"
+                    },
+                    {
+                        "k": "981",
+                        "v": "11d1b91d8d5f2ae002906c616a1bbc29"
+                    },
+                    {
+                        "k": "982",
+                        "v": "4c484aa8954fae6c2aee08fa06c4f354"
+                    },
+                    {
+                        "k": "986",
+                        "v": "d00f75d5bc3a8eb9fcfa2689a5182fe3"
+                    },
+                    {
+                        "k": "988",
+                        "v": "a7e97c0cad186221e7fa407f8ed1965e"
+                    },
+                    {
+                        "k": "989",
+                        "v": "65007b23574201e2e76d91fd88b8f517"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-11-02T00:28:16",
+                        "name": "Public",
+                        "hash": "29e772377839c79d7f489b6296da3ced",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-02T00:28:16",
+                                "name": "BeardRemoval__PLACE_IN_OBJECTS_PANEL.oprfb",
+                                "hash": "65007b23574201e2e76d91fd88b8f517",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-02T00:19:15",
+                                "name": "BaldStyle__PUT_IN_ORTHO_CAM.oprfb",
+                                "hash": "411512d6f7530270916628da058481d9",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-02T00:19:15",
+                                "name": "BaldStyle Resources",
+                                "hash": "c05b2a8b2475763c1a18413278f3846c",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T00:19:15",
+                                        "name": "bald_model.dnn",
+                                        "hash": "e1306f0ac86c83ffd42fe2e103de1a97",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T00:19:15",
+                                        "name": "ML Bald.lsmat",
+                                        "hash": "ee727636e9b699d7eefe22cf409335b4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T00:19:15",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-24T16:11:22",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-02T00:28:16",
+                                "name": "Beard Removal Resources",
+                                "hash": "909c3c675c1c379c2d6914b5ae9f3ef6",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-02T00:28:16",
+                                        "name": "Textures",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-02T00:28:16",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-02T00:28:16",
+                                        "name": "Materials",
+                                        "hash": "402463c78f548bb27b261f13fbc6fa57",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-02T00:28:16",
+                                                "name": "blend_beard.lsmat",
+                                                "hash": "514ef80120155a80ea0cb414ce68c475",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-02T00:28:16",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-02T00:28:16",
+                                        "name": "Models",
+                                        "hash": "10c727e4129b7f77767ea77b1c849670",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-02T00:28:16",
+                                                "name": "remove_beard_model.dnn",
+                                                "hash": "a7e97c0cad186221e7fa407f8ed1965e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-02T00:28:16",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T00:28:16",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-09-24T16:11:22",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BaldStyle Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Face Crop Texture Wide",
+                                "type": "1",
+                                "subtype": "17",
+                                "resourceId": "13",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1635776355401310:8522",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "output_0 Proxy Texture",
+                                "type": "1",
+                                "subtype": "19",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1635776355411143:8532",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "bald_model",
+                                "type": "22",
+                                "subtype": "0",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1635776355487982:8550",
+                                "fileId": "9",
+                                "originalId": "18446744073709551615",
+                                "publicId": "969",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ML Bald",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "16",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1635776355777636:8562",
+                                "fileId": "11",
+                                "originalId": "12",
+                                "publicId": "970",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BaldStyle__PUT_IN_ORTHO_CAM",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1635776355105347:8421",
+                        "fileId": "8",
+                        "originalId": "13",
+                        "publicId": "971",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Beard Removal Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "983",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "984",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "camera_render_target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "29",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1635776896464329:70187",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "screen_texture",
+                                        "type": "1",
+                                        "subtype": "16",
+                                        "resourceId": "30",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1635776896498573:70197",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "beard_face_crop_texture",
+                                        "type": "1",
+                                        "subtype": "17",
+                                        "resourceId": "31",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1635776896499957:70207",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "output_proxy_texture",
+                                        "type": "1",
+                                        "subtype": "19",
+                                        "resourceId": "32",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1635776896500784:70217",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "985",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "blend_beard",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "33",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1635776896557708:70231",
+                                        "fileId": "37",
+                                        "originalId": "38",
+                                        "publicId": "986",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Models",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "987",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "remove_beard_model",
+                                        "type": "22",
+                                        "subtype": "0",
+                                        "resourceId": "34",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1635776896674769:70281",
+                                        "fileId": "39",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "988",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BeardRemoval__PLACE_IN_OBJECTS_PANEL",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1635776896305020:70091",
+                        "fileId": "36",
+                        "originalId": "41",
+                        "publicId": "989",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1635776391436738:15254",
+                        "v": {
+                            "prefab": "1635776355105347:8421",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1635776355944885:8597",
+                                    "v": "1635776391436738:15254"
+                                },
+                                {
+                                    "k": "1635776355944896:8599",
+                                    "v": "1635776391447173:15264"
+                                },
+                                {
+                                    "k": "1635776355944904:8601",
+                                    "v": "1635776391447549:15266"
+                                },
+                                {
+                                    "k": "1635776355944913:8603",
+                                    "v": "1635776391460651:15404"
+                                },
+                                {
+                                    "k": "1635776355944918:8605",
+                                    "v": "1635776391460989:15406"
+                                },
+                                {
+                                    "k": "1635776355944924:8607",
+                                    "v": "1635776391472844:15540"
+                                },
+                                {
+                                    "k": "1635776355974394:8614",
+                                    "v": "1635776391473116:15542"
+                                },
+                                {
+                                    "k": "1635776355974450:8617",
+                                    "v": "1635776391506311:15590"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1635776913583269:71971",
+                        "v": {
+                            "prefab": "1635776896305020:70091",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1635776896790312:70312",
+                                    "v": "1635776913583269:71971"
+                                },
+                                {
+                                    "k": "1635776896790325:70314",
+                                    "v": "1635776913583802:71983"
+                                },
+                                {
+                                    "k": "1635776896821797:70319",
+                                    "v": "1635776913586126:71989"
+                                },
+                                {
+                                    "k": "1635776896821812:70321",
+                                    "v": "1635776913586501:71991"
+                                },
+                                {
+                                    "k": "1635776896821853:70323",
+                                    "v": "1635776913601401:72053"
+                                },
+                                {
+                                    "k": "1635776896821864:70325",
+                                    "v": "1635776913601889:72055"
+                                },
+                                {
+                                    "k": "1635776896821877:70327",
+                                    "v": "1635776913602635:72057"
+                                },
+                                {
+                                    "k": "1635776896821895:70329",
+                                    "v": "1635776913619915:72191"
+                                },
+                                {
+                                    "k": "1635776896821903:70331",
+                                    "v": "1635776913620212:72193"
+                                },
+                                {
+                                    "k": "1635776896821915:70333",
+                                    "v": "1635776913631464:72327"
+                                },
+                                {
+                                    "k": "1635776896821997:70336",
+                                    "v": "1635776913679772:72379"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1635776355487982:8550",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1382258",
+                            "compressedSize": "1382258",
+                            "extension": "dnn",
+                            "settings": {
+                                "isCompressed": "false"
+                            }
+                        },
+                        "uncompressed_file": "10",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1635776896674769:70281",
+                    "v": {
+                        "infos": {
+                            "originalSize": "972600",
+                            "compressedSize": "972600",
+                            "extension": "dnn",
+                            "settings": {
+                                "isCompressed": "false"
+                            }
+                        },
+                        "uncompressed_file": "40",
+                        "compressed_files": ""
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1635776355105347:8421",
+                    "v": "26djtHu3RbPyu7X5QeMxrK"
+                },
+                {
+                    "k": "1635776355401310:8522",
+                    "v": "26djtHu3RbPyu7X5QeMxrK"
+                },
+                {
+                    "k": "1635776355411143:8532",
+                    "v": "26djtHu3RbPyu7X5QeMxrK"
+                },
+                {
+                    "k": "1635776355487982:8550",
+                    "v": "26djtHu3RbPyu7X5QeMxrK"
+                },
+                {
+                    "k": "1635776355777636:8562",
+                    "v": "26djtHu3RbPyu7X5QeMxrK"
+                },
+                {
+                    "k": "1635776431446760:20037",
+                    "v": "3djKkSx97ObtGUESgamokp"
+                },
+                {
+                    "k": "1635776431556510:20098",
+                    "v": "3djKkSx97ObtGUESgamokp"
+                },
+                {
+                    "k": "1635776431626381:20115",
+                    "v": "3djKkSx97ObtGUESgamokp"
+                },
+                {
+                    "k": "1635776431710338:20131",
+                    "v": "3djKkSx97ObtGUESgamokp"
+                },
+                {
+                    "k": "1635776509233781:26207",
+                    "v": "7uhK2M6DnPZmJM8yKNANu5"
+                },
+                {
+                    "k": "1635776509493039:26294",
+                    "v": "7uhK2M6DnPZmJM8yKNANu5"
+                },
+                {
+                    "k": "1635776509992389:26373",
+                    "v": "7uhK2M6DnPZmJM8yKNANu5"
+                },
+                {
+                    "k": "1635776510101068:26430",
+                    "v": "7uhK2M6DnPZmJM8yKNANu5"
+                },
+                {
+                    "k": "1635776510198308:26447",
+                    "v": "7uhK2M6DnPZmJM8yKNANu5"
+                },
+                {
+                    "k": "1635776510278896:26464",
+                    "v": "7uhK2M6DnPZmJM8yKNANu5"
+                },
+                {
+                    "k": "1635776896305020:70091",
+                    "v": "4ozJNgu1xcBJwTZ5gRmcp2"
+                },
+                {
+                    "k": "1635776896464329:70187",
+                    "v": "4ozJNgu1xcBJwTZ5gRmcp2"
+                },
+                {
+                    "k": "1635776896498573:70197",
+                    "v": "4ozJNgu1xcBJwTZ5gRmcp2"
+                },
+                {
+                    "k": "1635776896499957:70207",
+                    "v": "4ozJNgu1xcBJwTZ5gRmcp2"
+                },
+                {
+                    "k": "1635776896500784:70217",
+                    "v": "4ozJNgu1xcBJwTZ5gRmcp2"
+                },
+                {
+                    "k": "1635776896557708:70231",
+                    "v": "4ozJNgu1xcBJwTZ5gRmcp2"
+                },
+                {
+                    "k": "1635776896674769:70281",
+                    "v": "4ozJNgu1xcBJwTZ5gRmcp2"
+                }
+            ]
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.4.1"
+}
